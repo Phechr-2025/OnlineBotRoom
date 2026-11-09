@@ -1,1 +1,34 @@
 
+งค่า Environment บน Bot Hosting
+เพิ่มตัวแปรทั้ง 3 ตัวนี้:
+ตัวแปรที่ 1
+
+Name
+
+DISCORD_TOKEN
+
+Value
+
+Token ใหม่ของ Discord Bot
+
+
+ตัวแปรที่ 2
+
+Name
+
+DISCORD_SERVER_ID
+
+Value
+
+1196284152329277510
+ คัดลอก
+
+ตัวแปรที่ 3
+
+Name
+
+DISCORD_VOICE_CHANNEL_ID
+
+Value
+
+1196284153180737540
